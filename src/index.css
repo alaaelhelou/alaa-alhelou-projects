@@ -1,0 +1,13 @@
+.navbar , .footerPart{
+  background-color: #2C3E50 !important;
+}
+.navbar{
+  transition: all 0.3s;
+}
+
+.active{
+  background-color: #1ABC9C !important;
+  border-radius: 10px;
+  padding-left: 8px;
+  padding-right: 8px;
+}

@@ -1,0 +1,11 @@
+.avatar{
+    width: 250px;
+}
+.homePage{
+    background-color: #1ABC9C !important;
+}
+.line{
+    height: 4px ;
+    width: 80px;
+    background-color: white;
+}

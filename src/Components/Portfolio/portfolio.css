@@ -1,0 +1,17 @@
+.portfolioPage .title{
+    color: #2C3E50 !important;
+}
+.portfolioPage .title .line{
+    background-color: #2C3E50;
+}
+.photo .layer{
+    background-color: rgba(26, 188, 156, 0.9);
+    opacity:0;
+    transition:all 0.7s ease;
+}
+.photo:hover .layer{
+    opacity: 100%;
+    cursor: pointer;
+}
+
+
